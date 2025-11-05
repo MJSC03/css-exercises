@@ -1,8 +1,12 @@
 /* Add CSS Styling */
 
 .oddNumber{
-    background-color: red;
+    background-color: pink;
     font-family: Verdana,"Dejavu Sans", sans-serif;
+}
+
+.cool{
+    font-size: 24px;
 }
 
 #number2{
